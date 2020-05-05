@@ -18,7 +18,7 @@ fetch('REPLACE-THIS-WITH-CORRECT-JSON-DATA-UR')
 
   function showParkingGent(parkings){
         // itereer door alle parkings
-        for(const parking of parking) {  
+        for(const parking of parkings) {  
           // haal de noodzakelijke properties uit het parking-object
 
           // plaats ze in de dom (zie voorbeeld in html)
